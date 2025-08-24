@@ -1,0 +1,20 @@
+chal 1
+    OOZEdiveTRAPpine
+
+chal 2
+    6games-container.stats-card15
+
+chal 3
+    11seafoamGAMES_JSON
+
+chal 4
+    19187800268BRAIN
+
+chal 5
+    74FLANNELclick
+
+chal 6
+    toLocaleString<div>1IVY
+
+chal 7
+    ZooHowCEDAR
